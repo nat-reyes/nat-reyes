@@ -1,4 +1,4 @@
-                             ### Hey there 👋, I'm Natalia Reyes, you can call me Nat
+                             ### Hey there 👋 I'm Natalia Reyes but you can call me Nat
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
