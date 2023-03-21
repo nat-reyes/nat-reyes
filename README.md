@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/nat-reyes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://nats-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Porfolio_WIP-blue?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
     <a href='mailto:aylin.reyes.8@gmail.com?subject = Hey Nat!' target='_blank' rel='noopener noreferrer'>
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
